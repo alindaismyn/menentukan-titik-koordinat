@@ -1,0 +1,1 @@
+# menentukan-titik-koordinat
